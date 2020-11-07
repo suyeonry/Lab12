@@ -1,0 +1,6 @@
+---
+title: "Lab 12 Index rmd"
+author: "Suyeon Ryu"
+output: html_document
+---
+

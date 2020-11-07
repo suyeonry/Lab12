@@ -1,0 +1,14 @@
+name: "Sue's Website"
+output_dir : "."
+navbar:
+  title: "Suyeon Ryu's Website"
+  left:
+    - text: "Home"
+      href: index.html
+   right:
+    - text: "External website"
+    - href: www.google.com
+      
+output:
+  html_document:
+    theme: yeti
